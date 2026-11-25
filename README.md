@@ -17,7 +17,8 @@ My research sits at the intersection of **experimental microbiology, molecular b
 ### 🔍 Research interests
 
 - Host–microbiome interactions
-- Microbial functions and biomarkers
+- Oral and gut microbiome and biomarkers
+- Polymicrobial synergy
 - Microbiome and human health
 - Translational and interdisciplinary research
 
