@@ -1,3 +1,4 @@
+<img width="1672" height="281" alt="banner2" src="https://github.com/user-attachments/assets/a897817a-dbf8-49db-9e8e-156f6f9e6182" />
 
 # 🧬 Hi, I'm a microbiome researcher!
 
